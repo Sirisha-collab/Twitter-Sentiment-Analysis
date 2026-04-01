@@ -11,6 +11,9 @@ This repository contains projects for analyzing Twitter text using NLP, ML, and 
  4. Twitter_Analysis_with_NLP_and_Big_Data.ipynb – Full pipeline: Big Data processing, streaming analysis, NLP, and sentiment modeling.
 
 -Implements TF-IDF, word frequency analysis, streaming windows, and MapReduce-style processing.
+
 -Visualizations include model accuracy comparison and top frequent words in tweets.
+
 -Supports both small datasets and simulated Big Data workflows for scalability testing.
+
 -Aims to provide an end-to-end pipeline for Twitter sentiment insights.
