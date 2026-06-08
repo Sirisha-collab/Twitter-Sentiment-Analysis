@@ -33,7 +33,8 @@ Sentiment Classification
 TF-IDF Feature Engineering
 Machine Learning Model Comparison
 Big Data & Streaming Concepts
-Data Visualization & Analytics
+
+Evaluated classification models using **ROC-AUC ** to measure threshold-independent performance and ensure robust class separation under imbalanced conditions.
 
 **Future Enhancements**
 
